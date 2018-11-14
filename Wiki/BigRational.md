@@ -5,7 +5,7 @@ BigRational builds on the [BigInteger](http://msdn.microsoft.com/en-us/library/s
 
 [release:Download](42782)
 You can download the BigRational library and a sample command-line application that reads two rationals and an operator and then prints the result.
-[Class Reference](BigRational-Class-Reference)
+[Class Reference](BigRational-Class-Reference.md)
 The class reference lists all of the public functionality on the BigRational type and relevant comments about each.
 
 ### Having problems?
